@@ -38,13 +38,13 @@ var config = {
         "要开心": "./imgs/6.png",
         "然后要有钱": "./imgs/7.jpg",
         "要继续美美的": "./imgs/11.jpg",
-        "还要幸福": "./imgs/9.jpg",
+        "要幸福": "./imgs/9.jpg",
         "happy birthday！": "./imgs/10.png",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "开1始",
+        turn_on: "开始",
         play: "音乐",
         bannar_coming: "颜色",
         balloons_flying: "好像少点东西",
