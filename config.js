@@ -30,16 +30,16 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "曾经的同学": "./imgs/2.jpg"
-        "一直的朋友": "./imgs/3.jpg"
-        "指引道路的灵魂导师": "./imgs/4.jpg"
-        "算了，就当第十八个叭": "./imgs/8.jpg"
-        "记得要健康": "./imgs/5.jpg"
-        "要开心": "./imgs/6.png"
-        "然后要有钱": "./imgs/7.jpg"
-        "要继续美美的": "./imgs/11.jpg"
-        "要幸福": "./imgs/9.jpg"
-        "happy birthday！": "./imgs/10.png"
+        "曾经的同学": "./imgs/2.jpg",
+        "一直的朋友": "./imgs/3.jpg",
+        "指引道路的灵魂导师": "./imgs/4.jpg",
+        "算了，就当第十八个叭": "./imgs/8.jpg",
+        "记得要健康": "./imgs/5.jpg",
+        "要开心": "./imgs/6.png",
+        "然后要有钱": "./imgs/7.jpg",
+        "要继续美美的": "./imgs/11.jpg",
+        "要幸福": "./imgs/9.jpg",
+        "happy birthday！": "./imgs/10.png",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
