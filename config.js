@@ -33,7 +33,7 @@ var config = {
     imgs: {
         "送给我": "./imgs/1.jpg",
         "曾经的同学": "./imgs/2.jpg",
-        "一直的朋友": "./imgs/3.jpg",
+        "一直的朋友": "./imgs/3.png",
         "指点迷津的灵魂导师": "./imgs/4.jpg",
         "算了，就祝你十八岁生日快乐叭": "./imgs/8.jpg",
         "记得要健康": "./imgs/5.jpg",
