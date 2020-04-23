@@ -39,7 +39,7 @@ var config = {
         "记得要健康": "./imgs/5.jpg",
         "要开心": "./imgs/6.jpg",
         "然后要有钱": "./imgs/7.jpg",
-        "要继续美美的": "./imgs/11.jpg",
+        "要继续美美的": "./imgs/11.png",
         "要幸福": "./imgs/9.1.jpg",
         "happy birthday！": "./imgs/10.png",
         // "今天是你的生日": "./imgs/birthday.jpg",
